@@ -4,6 +4,7 @@ import "../screens/SettingsScreen.dart";
 import '../screens/SupportScreen.dart';
 import "../utils/routes.dart";
 
+///////
 class Router {
   static Route<dynamic> generateRoute(RouteSettings settings) {
     switch (settings.name) {
